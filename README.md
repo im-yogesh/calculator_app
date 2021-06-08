@@ -2,6 +2,8 @@
 
 A Modern UI Based Calculator Built Using Flutter Which Can Do Simple Arithmetic Calculations.
 
+<a href="https://play.google.com/store/apps/details?id=com.technoyogesh.calculator"> Download </a>
+
 # Features
 
 Calculations include
